@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ga42quy
-- 👀 I’m interested in Behavioral Finance, Agent-Based Models, iOS App Development, Deep Learning
-- 🌱 I’m currently learning swift, Ruby, Spring
-- 💞️ I’m looking to collaborate on projects related to my interests
-- 📫 follow the white rabbit 
+Hi there, I am Old Boy! Do not judge, or you too will be judged. For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you. So let my actions be the measure you use!
 
 <!---
 ga42quy/ga42quy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
